@@ -140,13 +140,11 @@ Dorëheqja kërkon formë të shkruar dhe paraqitje në Kuvend; ligji nuk kërko
 
 *Shënim në tekstin zyrtar:* (Ndryshuar shkronja “b” me ligjin nr. 124/2020, datë 15.10.2020)
 
-*Shënim në tekstin zyrtar:* Në tekstin burimor (faqosja PDF) fjala “penale;” ndodhet jashtë vendit, para pikës 1; këtu është vendosur në fund të shkronjës “a” të pikës 1, pa ndryshuar përmbajtjen.
-
 Neni 28 rregullon shkarkimin e Komisionerit. Pika 1, me fjalën “vetëm”, e bën listën e shkaqeve shteruese, gjë që është garanci thelbësore e pavarësisë sipas nenit 22. Shkaqet janë: dënimi me vendim gjykate të formës së prerë për kryerjen e një vepre penale (shkronja “a”), vërtetimi i pamundësisë për të ushtruar detyrën për më shumë se tre muaj (shkronja “b”, në formulimin e ligjit nr. 124/2020) dhe kryerja e veprimtarisë në kundërshtim me këtë ligj, me Kushtetutën ose me legjislacionin në fuqi (shkronja “c”).
 
 Shkronja “a” përputhet me kushtin e zgjedhjes të nenit 24 shkronja “ç”. Shkronja “b” kërkon që pamundësia të “vërtetohet”, pra të provohet në mënyrë objektive. Shkronja “c” është më e gjera dhe më e ndjeshme: ajo mund të përfshijë shkeljen e papajtueshmërive të nenit 30 ose të detyrimeve të raportimit, por duhet interpretuar ngushtë, në mënyrë që të mos kthehet në mjet për largimin e Komisionerit për shkak të përmbajtjes së vendimeve të tij, gjë që do të binte ndesh me pavarësinë e nenit 22.
 
-Pika 2 parashikon procedurën: mocioni propozohet nga jo më pak se 1/3 e deputetëve dhe vendimi merret me shumicën e votave të të gjithë anëtarëve të Kuvendit — e njëjta shumicë si për zgjedhjen (neni 23 pika 1). Komisioneri i shkarkuar nuk gëzon garancinë e punës së mëvonshme të nenit 31. Në tekstin burimor fjala “penale;” e shkronjës “a” është zhvendosur nga faqosja para pikës 1; ajo është rivendosur në vendin e saj, siç tregon shënimi.
+Pika 2 parashikon procedurën: mocioni propozohet nga jo më pak se 1/3 e deputetëve dhe vendimi merret me shumicën e votave të të gjithë anëtarëve të Kuvendit — e njëjta shumicë si për zgjedhjen (neni 23 pika 1). Komisioneri i shkarkuar nuk gëzon garancinë e punës së mëvonshme të nenit 31.
 
 ### Neni 29 — Zgjedhja e komisionerit
 
